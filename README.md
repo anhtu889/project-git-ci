@@ -1,1 +1,1 @@
-# Noi dung tu nhanh A 
+# Du an quan ly ma nguon va CI CD (Da giai quyet conflict) 
